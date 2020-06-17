@@ -16,6 +16,7 @@
 #include <thread>
 #include <filesystem>
 #include <chrono>
+#include <codecvt>
 
 #ifdef _WIN32
 # include <ws2tcpip.h>
